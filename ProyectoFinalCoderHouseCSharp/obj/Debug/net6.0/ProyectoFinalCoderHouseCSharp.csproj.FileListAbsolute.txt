@@ -1,0 +1,99 @@
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\appsettings.json
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\ProyectoFinalCoderHouseCSharp.exe
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\ProyectoFinalCoderHouseCSharp.deps.json
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\ProyectoFinalCoderHouseCSharp.runtimeconfig.json
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\ProyectoFinalCoderHouseCSharp.dll
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\ProyectoFinalCoderHouseCSharp.pdb
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.csproj.AssemblyReference.cache
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.AssemblyInfoInputs.cache
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.AssemblyInfo.cs
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.csproj.CoreCompileInputs.cache
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\scopedcss\bundle\ProyectoFinalCoderHouseCSharp.styles.css
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.csproj.CopyComplete
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.dll
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\refint\ProyectoFinalCoderHouseCSharp.dll
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.pdb
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.genruntimeconfig.cache
+C:\Users\CESAR\Desktop\GITHUB\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ref\ProyectoFinalCoderHouseCSharp.dll
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\appsettings.json
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\ProyectoFinalCoderHouseCSharp.exe
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\ProyectoFinalCoderHouseCSharp.deps.json
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\ProyectoFinalCoderHouseCSharp.runtimeconfig.json
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\ProyectoFinalCoderHouseCSharp.dll
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\ProyectoFinalCoderHouseCSharp.pdb
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.csproj.AssemblyReference.cache
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.AssemblyInfoInputs.cache
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.AssemblyInfo.cs
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.csproj.CoreCompileInputs.cache
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\scopedcss\bundle\ProyectoFinalCoderHouseCSharp.styles.css
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.csproj.CopyComplete
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.dll
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\refint\ProyectoFinalCoderHouseCSharp.dll
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.pdb
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.genruntimeconfig.cache
+C:\Users\CESAR\Desktop\SERVIDOR\ProyectoFinal-CoderHouse-CSharp\ProyectoFinalCoderHouseCSharp\obj\Debug\net6.0\ref\ProyectoFinalCoderHouseCSharp.dll
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\bin\Debug\net6.0\appsettings.json
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\bin\Debug\net6.0\ProyectoFinalCoderHouseCSharp.exe
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\bin\Debug\net6.0\ProyectoFinalCoderHouseCSharp.deps.json
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\bin\Debug\net6.0\ProyectoFinalCoderHouseCSharp.runtimeconfig.json
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\bin\Debug\net6.0\ProyectoFinalCoderHouseCSharp.dll
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\bin\Debug\net6.0\ProyectoFinalCoderHouseCSharp.pdb
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\obj\Debug\net6.0\scopedcss\bundle\ProyectoFinalCoderHouseCSharp.styles.css
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.dll
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\obj\Debug\net6.0\refint\ProyectoFinalCoderHouseCSharp.dll
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.pdb
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\obj\Debug\net6.0\ProyectoFinalCoderHouseCSharp.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Desktop\Coder C#\C#\ProyectoFinal\obj\Debug\net6.0\ref\ProyectoFinalCoderHouseCSharp.dll
